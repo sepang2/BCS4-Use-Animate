@@ -1,4 +1,3 @@
-# Create React App with Tailwind CSS Template
+# Animate css
 
-1. git clone
-2. npm install
+https://animate.style/
